@@ -1,0 +1,34 @@
+{
+    "locations": [
+      {
+        "city": "Mysore",
+        "description": "A city in the southern part of India known for its palaces.",
+        "images": ["mysore1.jpg", "mysore2.jpg"],
+        "places": [
+          {
+            "name": "Mysore Palace",
+            "description": "A historical palace with beautiful architecture.",
+            "image": "mysore_palace.jpg"
+          },
+          {
+            "name": "Chamundi Hill",
+            "description": "A famous hill with a temple on top.",
+            "image": "chamundi_hill.jpg"
+          }
+        ]
+      },
+      {
+        "city": "Goa",
+        "description": "A popular tourist destination known for its beaches and nightlife.",
+        "images": ["goa1.jpg", "goa2.jpg"],
+        "places": [
+          {
+            "name": "Baga Beach",
+            "description": "A famous beach known for its water sports and nightlife.",
+            "image": "baga_beach.jpg"
+          }
+        ]
+      }
+    ]
+  }
+  
